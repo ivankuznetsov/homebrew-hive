@@ -1,9 +1,9 @@
 class Hive < Formula
   desc "Folder-as-agent pipeline for autonomous software tasks"
   homepage "https://github.com/ivankuznetsov/hive"
-  url "https://github.com/ivankuznetsov/hive/releases/download/v0.3.2/hive-cli-0.3.2.gem"
-  version "0.3.2"
-  sha256 "78526dfa75cc7839f24513e856ee0efb562fd04c94e072df7d495712444e108c"
+  url "https://github.com/ivankuznetsov/hive/releases/download/v0.3.3/hive-cli-0.3.3.gem"
+  version "0.3.3"
+  sha256 "d3871046de8f41099f284f08e0b1b5ef171adf41d61295ef8202d57ead4f700b"
   license "MIT"
 
   depends_on "ruby"
